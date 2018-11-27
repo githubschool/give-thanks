@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Vanilla Pudding!
 
 ![jetpacktocat](https://octodex.github.com/images/jetpacktocat.png)
 {: .center}
