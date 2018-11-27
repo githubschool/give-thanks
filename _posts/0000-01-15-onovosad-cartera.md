@@ -4,7 +4,7 @@ title: "Welcome to our slide deck!"
 ---
 
  
-No smoking! Drinking only
+No smoking! No drinking! What's the sense of life than?
 
 ![codercat](https://octodex.github.com/codercat.jpg)
 {: .center}
