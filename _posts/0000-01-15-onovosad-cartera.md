@@ -3,7 +3,8 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+ 
+No smoking! Drinking only
 
 ![codercat](https://octodex.github.com/codercat.jpg)
 {: .center}
