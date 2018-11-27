@@ -3,7 +3,9 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Fake life!
+Thug Life!
 
 ![steroidtocat](https://octodex.github.com/images/steroidtocat.png)
 {: .center}
+
+The biggest arms in wrestling
