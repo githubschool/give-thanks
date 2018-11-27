@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Some changed comment here
 
 ![Robotocat](https://octodex.github.com/images/Robotocat.png)
 {: .center}
