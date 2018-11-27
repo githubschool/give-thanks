@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to our awesome slide deck!"
 ---
 
 This is an amazing caption.  We have the best captions, everybody says it.  So good.
